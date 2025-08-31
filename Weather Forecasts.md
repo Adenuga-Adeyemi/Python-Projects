@@ -167,12 +167,6 @@ Most frequent conditions:
 - **Humidity > 80%**: Associated with **low visibility** (<10 km)  
 - **Pressure Drops**: Linked with stormy weather  
 
-*Suggested Visualizations:*  
-- Histogram of temperatures  
-- Scatter plot: Temp vs. Humidity  
-- Bar chart: Weather condition frequencies  
-- Time-series plot: Temperature over 2012  
-
 ---
 
 ## Conclusion
